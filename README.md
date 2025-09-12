@@ -1,1 +1,2 @@
-<h1>En proceso...</h1>
+<h1>Sistema de Registro</h1>
+<p>En proceso...</p>
