@@ -3,5 +3,5 @@
 
  Para ejecutar el programas debes poner:
 
- ´´´´npm react´´´´
+ ´´´npm react´´´
  
